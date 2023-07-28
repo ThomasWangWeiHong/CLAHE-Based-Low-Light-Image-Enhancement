@@ -1,11 +1,13 @@
 # CLAHE-Low-Light-Image-Enhancement
 
-Python implementation of the algorithm depicted in the paper (based on individual interpretation) "An Improved Method for Reconstruction and Enhancing Dark Images Based on CLAHE" by Pavan A.C., Lakshmi S. and M. T. Somashekara.
+Python implementation of the algorithm depicted in the paper (based on individual interpretation) "An Improved Method for Reconstruction and Enhancing Dark Images Based on CLAHE" by Pavan A.C., Lakshmi S. and M. T. Somashekara. Note that the image fusion algorithm is taken from this paper "Adaptive Image Enhancement Method for Correcting Low-Illumination Images" by Wang et al.
 
 
 Google Scholar Citation:
 
 Pavan, A. C., Lakshmi, S., & MT, S. (2023). An Improved Method for Reconstruction and Enhancing Dark Images based on CLAHE. International Research Journal on Advanced Science Hub, 5(02).
+
+Wang, W., Chen, Z., Yuan, X., & Wu, X. (2019). Adaptive image enhancement method for correcting low-illumination images. Information Sciences, 496, 25-41.
 
 
 Paper link:
