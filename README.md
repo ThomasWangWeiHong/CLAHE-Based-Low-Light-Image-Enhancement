@@ -31,4 +31,6 @@ https://github.com/cs-chan/Exclusively-Dark-Image-Dataset
 
 The algorithm is also tested on a video:
 
-[![Youtube Demo Video](assets/Youtube Video Screenshot.png)](http://www.youtube.com/watch?v=yE-fAcMAvpE)
+[![Watch the video](https://img.youtube.com/vi/yE-fAcMAvpE/hqdefault.jpg)](https://www.youtube.com/embed/yE-fAcMAvpE)
+
+
