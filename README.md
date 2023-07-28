@@ -29,7 +29,7 @@ https://github.com/cs-chan/Exclusively-Dark-Image-Dataset
 ![Enhanced Car Image](assets/2015_02463_enhanced.jpg)
 
 
-The algorithm is also tested on a video:
+The algorithm is also tested on a video (click on the image to watch the video):
 
 [![Watch the video](https://img.youtube.com/vi/yE-fAcMAvpE/hqdefault.jpg)](https://www.youtube.com/embed/yE-fAcMAvpE)
 
