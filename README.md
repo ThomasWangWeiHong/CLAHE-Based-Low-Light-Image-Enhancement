@@ -13,11 +13,14 @@ The algorithm is tested on the Exclusively Dark (ExDark) dataset, which can be d
 https://github.com/cs-chan/Exclusively-Dark-Image-Dataset
 
 ![Original Car Image](assets/2015_02458.jpg)
+
 ![Enhanced Car Image](assets/2015_02458_enhanced.jpg)
 
 ![Original Car Image](assets/2015_02463.jpg)
+
 ![Enhanced Car Image](assets/2015_02463_enhanced.jpg)
 
 
 The algorithm is also tested on a video:
+
 [![Youtube Demo Video](assets/Youtube Video Screenshot.png)](http://www.youtube.com/watch?v=yE-fAcMAvpE)
