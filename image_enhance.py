@@ -2,6 +2,7 @@ import cv2
 import numpy as np
 
 
+clahe = cv2.createCLAHE(clipLimit = 2.0, tileGridSize = (8, 8))
 
 def low_light_enhance(image, clahe):
 	# Conversion from RGB Color Space to HSV Color Space
