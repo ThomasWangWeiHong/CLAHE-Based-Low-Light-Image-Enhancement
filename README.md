@@ -2,6 +2,8 @@
 
 Python implementation of the algorithm depicted in the paper (based on individual interpretation) "An Improved Method for Reconstruction and Enhancing Dark Images Based on CLAHE" by Pavan A.C., Lakshmi S. and M. T. Somashekara. Note that the image fusion algorithm is taken from this paper "Adaptive Image Enhancement Method for Correcting Low-Illumination Images" by Wang et al.
 
+The input to the functions are the numpy array of the RGB image (in RGB color space) to be enhanced, and the opencv-python CLAHE object (parameters to be determined based on application), while the output of the function is the numpy array of the enhanced RGB image (in RGB color space).
+
 
 Google Scholar Citation:
 
